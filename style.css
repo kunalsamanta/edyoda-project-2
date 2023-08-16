@@ -52,38 +52,34 @@ header.dropdown{
   h3{
     float: left;
   }
-f.filter_button{
-    Bottom margin: 20px;
-  Text size: 16px;
-  Top padding: 16px
-}
+
 
 .content_body{
   margin: 10%;
 }
 img{
   width: 45%;
-}
+} 
 
 
 button{
   color:#0084ff; ;
-  Background color: #0084ff;
+  background-color: #0084ff;
   margin: 5px;
   background-color:white ;
   padding: 6px 14px;
   Width: auto;
-  Text color: #0084ff;
-  Border radius: 15px;
+  
+  border-radius: 15px;
   Border: 1px solid #0084ff;
 
   Cursor: pointer;
-  border-radius: 9999px;
+  
 
   
 }
 
-footer{
-  Background color: #172146;
+.foot{
+  background-color: #172146;
   
 }
